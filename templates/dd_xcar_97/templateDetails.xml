@@ -1,0 +1,478 @@
+<?xml version="1.0"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 2.5//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/1.6/template-install.dtd">
+<extension version="2.5" client="site" type="template" method="upgrade">
+  <name>dd_xcar_97</name>
+  <creationDate>2016-10-17</creationDate>
+   <version>1.0</version>
+  <author>DiabloDesign</author>
+	<authorEmail>biuro@diablodesign.eu</authorEmail>
+	<authorUrl>http://www.diablodesign.eu</authorUrl>
+	<copyright>Copyright (C) DiabloDesign License All rights reserved.</copyright>
+	<version>1.0.0</version>
+
+   <description>
+	<![CDATA[
+		<style type="text/css" media="all">
+				<!--
+			
+				h1 {clear:both;font-family: Georgia, sans-serif;font-size:36px;  font-weight: normal;}
+		
+		
+				-->
+			</style>
+	<div class="dd-description clearfix">
+	<h1><img src="http://diablodesign.eu/syg.png" /></a><span style="color: #cc0607;"> DD Xcar 97 - Free joomla template</span></h1>
+	<hr>
+		<div class="pull-left" style="max-width: 35.69%;">
+			<img style="max-width: 100%; box-sizing: border-box; -webkit-box-sizing: border-box; padding: 10px; background: #fff; border: 1px solid #e1e1e1;" src="../templates/dd_xcar_97/images/sc.jpg" />
+		
+		</div>
+		<div class="pull-left" style="max-width: 64.31%; box-sizing: border-box; -webkit-box-sizing: border-box; padding: 0 30px;">
+			<div style="margin-bottom: 20px;">
+				<div style="margin-bottom: 20px;">
+				
+			
+				
+				
+
+<span style="color: #ff0000; display: block; margin-top: 2px;"><li>Ta wersja szablonu jest darmowa i ma pewne ograniczenia.</li> <li> Pełną wersję szablonu identyczną jak na demo można kupić na naszej stronie internetowej.<a style="font-size: 15px; color: #3ea5ea;" target="_blank" href="http://www.diablodesign.eu/formularz-zamowienia">www.diablodesign.eu</a></li></span>
+<span style="color:green; font-weight: bold; font-size:18px ">
+			<br />Free Version is limited and may not include all configuration parameters and module positions.<br /><br />
+				<div style="margin: 20px 0 0;">
+					<a style="text-decoration: none !important; outline: none;" target="_blank" href="http://www.diablodesign.eu">
+						<img src="http://diablodesign.eu/images/paypal.gif" />
+					</a>
+					<a href="http://www.diablodesign.eu" target="_blank" style="margin: 0 20px; color: #3ea5ea;">Buy Pro Version AMOUNT 10 €</a>
+				</div>
+			</div>
+		
+			</div>
+	<hr>
+				<div style="margin: 0 -20px;">
+				<div style="display: inline-block; margin: 0 20px 20px;">
+				<a href="http://www.diablodesign.eu" target="_blank"><img src="http://www.diablodesign.eu/images/diablo_logo.png" style="width:150px;" /></a>
+					<span style="display: block; color: #a0a0a0;">Free Templates for Joomla!</span>
+					<a style="font-size: 15px; color: #3ea5ea;" target="_blank" href="http://www.diablodesign.eu">www.diablodesign.eu</a>
+				</div>
+				<div style="display: inline-block; margin: 0 20px 20px;">
+				<a href="http://www.jomboom.com" target="_blank"><img src="http://jomboom.com/images/logo.png" style="width:150px;" /></a>
+					<span style="display: block; color: #a0a0a0;">Free Extensions for Joomla!</span>
+					<a style="font-size: 15px; color: #3ea5ea;" target="_blank" href="http://www.jomboom.com">www.jomboom.com</a>
+				</div>
+				
+				<div style="display: inline-block; margin: 0 20px 20px;">
+				<a href="http://www.templatki.com" target="_blank"><img src="http://templatki.com/images/logo.png" style="width:150px;" /></a>
+					<span style="display: block; color: #a0a0a0;">Free Joomla Templates</span>
+					<a style="font-size: 15px; color: #3ea5ea;" target="_blank" href="http://www.templatki.com">www.templatki.com</a>
+					
+				</div>
+				<div style="display: inline-block; margin: 0 20px 20px;">
+				<a href="http://www.templates24.org" target="_blank"><img src="http://templates24.org/logo.png" style="width:150px;" /></a>
+					<span style="display: block; color: #a0a0a0;">Free and premium templates</span>
+					<a style="font-size: 15px; color: #3ea5ea;" target="_blank" href="http://www.templates24.org">www.templates24.org</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	]]>
+	</description>
+  <files>
+    <file>CloudZoom.js</file>
+    <file>blank.png</file>
+    <file>bootstrap.min.js</file>
+    <file>component.php</file>
+    <file>error.php</file>
+    <file>functions-additional.php</file>
+    <file>functions.php</file>
+    <file>index.html</file>
+    <file>index.php</file>
+    <file>jquery.js</file>
+    <file>layout.core.js</file>
+    <file>layout.ie.css</file>
+    <file>layout.ie.js</file>
+    <file>modrender.php</file>
+    <file>script.js</file>
+    <file>style.ie.css</file>
+    <file>templateDetails.xml</file>
+    <file>virtuemart.js</file>
+    <folder>css</folder>
+    <folder>data</folder>
+    <folder>fields</folder>
+    <folder>html</folder>
+    <folder>images</folder>
+    <folder>includes</folder>
+    <folder>js</folder>
+    <folder>language</folder>
+    <folder>library</folder>
+    <folder>plugins</folder>
+    <folder>prototypes</folder>
+    <folder>templates</folder>
+  </files>
+  <positions>
+    <position>bottom-banner-1</position>
+    <position>breadcrumb</position>
+    <position>dd-footer-1</position>
+    <position>dd-footer-2</position>
+    <position>dd-footer-3</position>
+    <position>dd-footer-4</position>
+    <position>dd-footer-5</position>
+    <position>dd-footer-6</position>
+    <position>dd-footer-7</position>
+    <position>dd-top-1</position>
+    <position>dd-top-2</position>
+    <position>dd-top-3</position>
+    <position>dd-top-4</position>
+    <position>dd-top-5</position>
+    <position>dd-top-6</position>
+    <position>dd-top-7</position>
+    <position>left</position>
+    <position>position-1</position>
+    <position>position-7</position>
+    <position>position-8</position>
+    <position>topbanner-1</position>
+    <position>topbanner-2</position>
+  </positions>
+  <config>
+    <fields name="params" addfieldpath="/templates/dd_xcar_97/fields">
+      <fieldset name="logo" label="Logo">
+          <field type="spacer" class="text" label="...........................................LOGO......................................................." /> 
+          <field name="logoFile" default="templates/dd_xcar_97/images/logo.png" type="media" label="TPL_LOGO_LABEL" description="TPL_LOGO_DESC"/>
+     
+      </fieldset>
+	  
+	  <fieldset name="license" label="License Key">
+           <field type="spacer" class="text" label="......................License.KEY..................................................................." />         
+           <field name="license" type="text" default="" size="50" label="License key" description="License key"/>         
+     </fieldset>
+	  	
+	 <fieldset name="analytics" label="Google analytics PRO">
+          <field type="spacer" class="text" label="......................Google.Analytics..............................................................." />
+          <field name="analytics" type="text" default="UA-XXXXXXXX-1" size="50" label="tracking Id"/>
+		  
+		 <field name="ac" type="radio" default="0" class="btn-group" label="" description="test">
+					<option value="0">Disabled</option>
+				
+	      </field>         
+     </fieldset>
+
+	
+      <fieldset name="favicon" label="Favicon">  
+          <field type="spacer" class="text" label="...........................................FAVICON...................................................." />    
+          <field name="fav" type="media" label="Upload favicon" description="" default="templates/dd_xcar_97/images/favicon.ico" disabled="false"/>
+      </fieldset>
+	  <fieldset name="headercontact" label="Header contact">  
+          <field type="spacer" class="text" label="...........................................Contact...................................................." />    
+          <field name="ht" type="text" label="Telephone" description="" default="+1 (555) 456 3890" disabled="false"/>
+		  <field name="he" type="text" label="E-mail" description="" default="info@company.com" disabled="false"/>
+		  <field type="spacer" class="text" label="...........................................Adress....................................................." />    
+          <field name="al1" type="text" label="Adress line 1" description="" default="4934 Irving Place" disabled="false"/>
+		  <field name="al2" type="text" label="Adress line 2" description="" default="Pond, MO 63040" disabled="false"/>
+      </fieldset>
+	    <fieldset name="slideshow" label="Slideshow PRO">
+		  <field type="spacer" class="text" label="...............................Background.slideshow..................................................." />	
+		  <field name="bgs" type="media" label="Upload photo " description="" default="templates/dd_xcar_97/images/slideshow/bg.jpg"/>
+		  <field type="spacer" class="text" label="...............................SLIDE.1................................................................" />	
+		  <field name="sf1" type="media" label="Upload photo " description="" default="templates/dd_xcar_97/images/slideshow/1.jpg"/>
+		  <field name="st1" type="text" default="Complete Auto Service" label="Caption" disabled="false"/>
+
+		  <field type="spacer" label="Disable slide 1 " />
+			 <field name="slide1" type="radio" default="1" class="btn-group"  label="" >
+					<option value="0">Disabled</option>
+					<option value="1">Enabled</option>
+					</field>	
+		  
+		   <field type="spacer" class="text" label="...............................SLIDE.2................................................................" />	
+		  <field name="sf2" type="media" label="Upload photo " description="" default="templates/dd_xcar_97/images/slideshow/2.jpg"/>
+		  <field name="st2" type="text" default="COMPUTER DIAGNOSTICS" label="Caption" disabled="false"/>
+
+		  	  <field type="spacer" label="Disable slide 2 " />
+			 <field name="slide2" type="radio" default="1" class="btn-group"  label="" >
+					<option value="0">Disabled</option>
+					<option value="1">Enabled</option>
+					</field>
+		  
+		  <field type="spacer" class="text" label="...............................SLIDE.3................................................................" />	
+		  <field name="sf3" type="media" label="Upload photo " description="" default="templates/dd_xcar_97/images/slideshow/3.jpg"/>
+		  <field name="st3" type="text" default="EMISSION REPAIR FACILITY" label="Caption" disabled="false"/>
+		
+		  
+		  	  <field type="spacer" label="Disable slide 3 " />
+			 <field name="slide3" type="radio" default="1" class="btn-group"  label="" >
+					<option value="0">Disabled</option>
+					<option value="1">Enabled</option>
+					</field>
+		  
+		  <field type="spacer" class="text" label="...............................SLIDE.4................................................................" />	
+		  <field name="sf4" type="media" label="Upload photo" description="" default="templates/dd_xcar_97/images/slideshow/4.jpg"/>
+		  <field name="st4" type="text" default="TUNE-UPS" label="Caption 1" disabled="false"/>
+
+		  
+		  	  <field type="spacer" label="Disable slide 4 " />
+			 <field name="slide4" type="radio" default="1" class="btn-group"  label="" >
+					<option value="0">Disabled</option>
+					<option value="1">Enabled</option>
+					</field>
+		  
+		   <field type="spacer" class="text" label="...............................SLIDE.5................................................................" />	
+		  <field name="sf5" type="media" label="Upload photo " description="" default="templates/dd_xcar_97/images/slideshow/5.jpg"/>
+		  <field name="st5" type="text" default="ENGINE WORK" label="Caption" disabled="false"/>
+
+		  
+		  	  <field type="spacer" label="Disable slide 5 " />
+			 <field name="slide5" type="radio" default="1" class="btn-group"  label="" >
+					<option value="0">Disabled</option>
+					<option value="1">Enabled</option>
+					</field>
+					
+		  <field type="spacer" class="text" label="..........................................Speed.slideshow............................................." />   
+		  <field name="speed" type="text" default="4600" size="50"  label="Speed slideshow 0/ms " disabled="false"/>	
+		  <field type="spacer" class="text" label="..........................................Disable.caption............................................." />  
+			 <field name="slcc" type="radio" default="1" class="btn-group"  label="" >
+					<option value="0">Disabled</option>
+					<option value="1">Enabled</option>
+					</field>		
+
+	  </fieldset>
+	  
+	    <fieldset name="icon" label="icon BOX PRO">
+           <field type="spacer" class="text" label="......................Header........................................................................." />         
+           <field name="ib1" type="text" default="ABOUT" size="50" label="Line text 1"/>
+		   <field name="ib2" type="text" default="OUR COMPANY" size="50" label="Line text 2"/>  
+		   <field name="ib3" type="textarea" default="If you have a problem with your car, we'll quickly and effectively eliminate the problem, perform all work connected with the repair of your vehicle, efficiently and inexpensive. We are ready to provide you with a full range of services for warranty and post-warranty maintenance and repair of any car." rows="8" cols="60"  label="Line text 3 "  />
+		   <field type="spacer" class="text" label="......................Icon.1........................................................................." /> 
+		   <field name="ib4" type="media" label="Upload icon " description="" default="templates/dd_xcar_97/images/icon/1.png"/>
+		   <field name="ib5" type="text" default="" size="50" label="http://" /> 
+		   <field name="ib6" type="text" default="MOTOR REPAIR" size="50" label="Title"/>
+		   <field name="ib7" type="textarea" default="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." rows="8" cols="60"  label="text"  />  
+		   
+		      <field type="spacer" class="text" label="......................Icon.2........................................................................." /> 
+		   <field name="ib8" type="media" label="Upload icon " description="" default="templates/dd_xcar_97/images/icon/2.png"/>
+		   <field name="ib9" type="text" default="" size="50" label="http://" /> 
+		   <field name="ib10" type="text" default="TRANSMISSION REPAIR" size="50" label="Title"/>
+		   <field name="ib11" type="textarea" default="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." rows="8" cols="60"  label="text"  />  
+		   
+		   <field type="spacer" class="text" label="......................Icon.3........................................................................." /> 
+		   <field name="ib12" type="media" label="Upload icon " description="" default="templates/dd_xcar_97/images/icon/3.png"/>
+		   <field name="ib13" type="text" default="" size="50" label="http://" /> 
+		   <field name="ib14" type="text" default="CHASSIS REPAIR" size="50" label="Title"/>
+		   <field name="ib15" type="textarea" default="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." rows="8" cols="60"  label="text"  />  
+		   
+		   <field type="spacer" class="text" label="......................Icon.4........................................................................." /> 
+		   <field name="ib16" type="media" label="Upload icon " description="" default="templates/dd_xcar_97/images/icon/4.png"/>
+		   <field name="ib17" type="text" default="" size="50" label="http://" /> 
+		   <field name="ib18" type="text" default="CAR BODY REPAIR" size="50" label="Title"/>
+		   <field name="ib19" type="textarea" default="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." rows="8" cols="60"  label="text"  />  
+		   
+		     <field type="spacer" class="text" label="..........................................Disable.IconBox.........................................." />  
+			 <field name="cib" type="radio" default="1" class="btn-group"  label="" >
+					<option value="0">Disabled</option>
+					<option value="1">Enabled</option>
+					</field>		
+
+      </fieldset>
+
+	  <fieldset name="promo" label="promo BOX PRO">
+           <field type="spacer" class="text" label="......................Header........................................................................." />         
+           <field name="p1" type="media" label="Background Box " description="" default="templates/dd_xcar_97/images/promo/bg.jpg"/>
+		   <field name="p2" type="text" default="Latest Projects" size="50" label="Title"/> 
+
+		   <field type="spacer" class="text" label="......................BOX.1........................................................................." /> 
+		   <field name="p3" type="media" label="Upload IMAGE " description="" default="templates/dd_xcar_97/images/promo/1.jpg"/>
+		   <field name="p4" type="text" default="" size="50" label="http://" /> 
+		   <field name="p5" type="text" default="Title 1" size="50" label="Title"/>
+		   <field name="p6" type="textarea" default="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." rows="8" cols="60"  label="text"  />  
+		   
+		     <field type="spacer" class="text" label="......................BOX.2........................................................................." /> 
+		   <field name="p7" type="media" label="Upload IMAGE " description="" default="templates/dd_xcar_97/images/promo/2.jpg"/>
+		   <field name="p8" type="text" default="" size="50" label="http://" /> 
+		   <field name="p9" type="text" default="Title 2" size="50" label="Title"/>
+		   <field name="p10" type="textarea" default="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." rows="8" cols="60"  label="text"  />  
+		   
+		     <field type="spacer" class="text" label="......................BOX.3........................................................................." /> 
+		   <field name="p11" type="media" label="Upload IMAGE " description="" default="templates/dd_xcar_97/images/promo/3.jpg"/>
+		   <field name="p12" type="text" default="" size="50" label="http://" /> 
+		   <field name="p13" type="text" default="Title 3" size="50" label="Title"/>
+		   <field name="p14" type="textarea" default="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." rows="8" cols="60"  label="text"  />  
+		   
+		     <field type="spacer" class="text" label="..........................................Disable.PromoBOX.........................................." />  
+			 <field name="cpb" type="radio" default="1" class="btn-group"  label="" >
+					<option value="0">Disabled</option>
+					<option value="1">Enabled</option>
+					</field>		
+
+      </fieldset>
+	  <fieldset name="info" label="Info BOX PRO">
+           <field type="spacer" class="text" label="......................Header........................................................................." />         
+           
+		   <field name="in1" type="text" default="WE SOLVE YOUR PROBLEMS!" size="50" label="Title"/> 
+           <field name="in2" type="textarea" default="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." rows="8" cols="60"  label="text"  /> 
+		   <field type="spacer" class="text" label="......................Button........................................................................." /> 
+		   <field name="in3" type="text" default="JOIN US" size="50" label="Title button"/>
+		   <field name="in4" type="text" default="http://" size="50" label="http://"/>
+		   
+
+		     <field type="spacer" class="text" label="..........................................Disable.InfoBOX.........................................." />  
+			 <field name="in5" type="radio" default="1" class="btn-group"  label="" >
+					<option value="0">Disabled</option>
+					<option value="1">Enabled</option>
+					</field>		
+
+      </fieldset>
+	  
+	  <fieldset name="movie" label="Video BOX PRO">
+	   <field type="spacer" class="text" label="......................Header........................................................................." />         
+  
+		   <field name="vt" type="text" default="Video Gallery" size="50" label="Title"/> 
+		   
+			<field type="spacer" class="text" label="...........................................Youtube movie 1................................................" />
+			<field name="video" type="text" default="ASSJLIwl3Q0" size="50" label="ID youtube" description="ID youtube"/>
+			<field name="start" type="text" default="5" size="50" label="Time start 1 = 1 second" description="Time start"/>
+			<field name="autoplay" type="radio" default="0" class="btn-group" label="Autoplay movie" description="">
+					<option value="0">Disabled / Wyłącz</option>
+					<option value="1">Enabled / Załącz</option>
+				</field>
+				<field name="show" type="radio" default="0" class="btn-group" label="Shoow control Player" description="">
+					<option value="0">Disabled / Wyłącz</option>
+					<option value="1">Enabled / Załącz</option>
+				</field>
+				
+				<field name="showinfo" type="radio" default="0" class="btn-group" label="Shoow info Player" description="">
+					<option value="0">Disabled / Wyłącz</option>
+					<option value="1">Enabled / Załącz</option>
+				</field>
+				<field type="spacer" class="text" label="...........................................Video text................................................" />
+				<field name="vti" type="text" default="Porsche 918 Spyder 2013" size="50" label="Video Title" />
+				<field name="vte" type="text" default="Lorem ipsum dolor sit amet, consectetur adipiscing elit" size="50" label="Video Text" />
+				
+			<field type="spacer" class="text" label="...........................................Youtube movie 2................................................" />
+			<field name="video2" type="text" default="2P7dhHitOTk" size="50" label="ID youtube" description="ID youtube"/>
+			<field name="start2" type="text" default="5" size="50" label="Time start 1 = 1 second" description="Time start"/>
+			<field name="autoplay2" type="radio" default="0" class="btn-group" label="Autoplay movie" description="">
+					<option value="0">Disabled / Wyłącz</option>
+					<option value="1">Enabled / Załącz</option>
+				</field>
+				<field name="show2" type="radio" default="0" class="btn-group" label="Shoow control Player" description="">
+					<option value="0">Disabled / Wyłącz</option>
+					<option value="1">Enabled / Załącz</option>
+				</field>
+				
+				<field name="showinfo2" type="radio" default="0" class="btn-group" label="Shoow info Player" description="">
+					<option value="0">Disabled / Wyłącz</option>
+					<option value="1">Enabled / Załącz</option>
+				</field>
+				<field type="spacer" class="text" label="...........................................Video text................................................" />
+				<field name="vti1" type="text" default="Ferrari 458 Speciale" size="50" label="Video Title" />
+				<field name="vte1" type="text" default="Lorem ipsum dolor sit amet, consectetur adipiscing elit" size="50" label="Video Text" />
+				
+				<field type="spacer" class="text" label="...........................................Youtube movie 3................................................" />
+			<field name="video3" type="text" default="aeVsjXYB_Ek" size="50" label="ID youtube" description="ID youtube"/>
+			<field name="start3" type="text" default="5" size="50" label="Time start 1 = 1 second" description="Time start"/>
+			<field name="autoplay3" type="radio" default="0" class="btn-group" label="Autoplay movie" description="">
+					<option value="0">Disabled / Wyłącz</option>
+					<option value="1">Enabled / Załącz</option>
+				</field>
+				<field name="show3" type="radio" default="0" class="btn-group" label="Shoow control Player" description="">
+					<option value="0">Disabled / Wyłącz</option>
+					<option value="1">Enabled / Załącz</option>
+				</field>
+				
+				<field name="showinfo3" type="radio" default="0" class="btn-group" label="Shoow info Player" description="">
+					<option value="0">Disabled / Wyłącz</option>
+					<option value="1">Enabled / Załącz</option>
+				</field>
+			
+		<field type="spacer" class="text" label="...........................................Video text................................................" />
+				<field name="vti2" type="text" default="Lamborghini Aventador" size="50" label="Video Title" />
+				<field name="vte2" type="text" default="Lorem ipsum dolor sit amet, consectetur adipiscing elit " size="50" label="Video Text" />
+					<field type="spacer" class="text" label="...........................................Disable section movie......................................." />
+				<field name="dplayer" type="radio" default="1" class="btn-group" label="Disable VideoBOX" description="">
+					<option value="0">Disabled</option>
+					<option value="1">Enabled</option>
+				</field>
+		  </fieldset>
+		  
+		  <fieldset name="contactfooter" label="Footer contact BOX PRO">
+           <field type="spacer" class="text" label="......................Social.icon..................................................................." />         
+           <field type="spacer" class="text" label="...........................................FACEBOOK................................................." />
+			<field name="facebook" type="text" default="//www.facebook.com/sharer.php?u=" label="Facebok url: " description="facebok link" filter="string"  disabled="false"/>
+				<field name="fc" type="radio" default="1" class="btn-group" label="" description="">
+					<option value="0">Disabled</option>
+					<option value="1">Enabled</option>
+				</field>
+				<field type="spacer" class="text" label=".........................................TWITTER................................................." />
+            <field name="twitter" type="text" default="//twitter.com/share?url=&amp;text=" label="Twitter url: " description="Twitter link" filter="string" disabled="false" />
+				<field name="tc" type="radio" default="1" class="btn-group" label="" description="">
+					<option value="0">Disabled</option>
+					<option value="1">Enabled</option>
+				</field>
+			
+				<field type="spacer" class="text" label=".........................................GOOGLE+................................................." />
+			<field name="google" type="text" default="//plus.google.com/share?url=http://google.com" label="Google+ url:" description="Google+ link" filter="string" />
+				<field name="gc" type="radio" default="1" class="btn-group" label="" description="">
+					<option value="0">Disabled</option>
+					<option value="1">Enabled</option>
+				</field>
+					<field type="spacer" class="text" label=".........................................PINTEREST..........................................." />
+			<field name="pinterest" type="text" default="//pinterest.com/pin/create/button/?url=&amp;media=&amp;description=" label="pinterest url:" description="pinterest link" filter="string" />
+				<field name="pc" type="radio" default="1" class="btn-group" label="" description="">
+					<option value="0">Disabled</option>
+					<option value="1">Enabled</option>
+				</field>
+				
+						<field type="spacer" class="text" label=".........................................linkedin..........................................." />
+			<field name="linkedin" type="text" default="//linkedin.com/shareArticle?title=&amp;mini=true&amp;url=" label="linkedin url:" description="linkedin link" filter="string" />
+				<field name="lc" type="radio" default="1" class="btn-group" label="" description="">
+					<option value="0">Disabled</option>
+					<option value="1">Enabled</option>
+				</field>
+				
+				  <field type="spacer" class="text" label="......................ADRESS......................................................................" /> 
+				  <field name="ad0" type="text" default="Contact Us" size="50" label="Header" />
+				  <field name="ad1" type="text" default="31-704 Kraków" size="50" label="Adress line 1" />
+				  <field name="ad2" type="text" default="Nowa Huta" size="50" label="Adress line 2" />
+				  <field name="ad3" type="text" default="os Na stoku 1" size="50" label="Adress line 3" />
+				  <field name="ad4" type="text" default="(703) 329-06-32" size="50" label="Telephone" />
+				  <field name="ad5" type="text" default="info@demosite.org" size="50" label="email" />
+				  <field type="spacer" class="text" label="...........................................Disable.Footer.Contact.BOX............................." />
+				  	<field name="fcb" type="radio" default="1" class="btn-group" label="" description="">
+					<option value="0">Disabled</option>
+					<option value="1">Enabled</option>
+				</field>
+				  
+				  
+     </fieldset>
+	 <fieldset name="maps" label="Map BOX PRO">
+	 	  <field type="spacer" class="text" label="...........................................Google.Maps.................................................." /> 
+          <field name="map1" type="text" default="Krakow" label="City" description="City" filter="string" />
+		  <field name="map2" type="text" default="os na stoku 1" label="Street" description="Street" filter="string" />
+		      <field type="spacer" class="text" label="......................Disable.Map..................................................................." />         
+            <field name="dm" type="radio" default="1" class="btn-group"  label="" >
+					<option value="0">Disabled</option>
+					<option value="1">Enabled</option>
+					</field>
+	   
+     </fieldset>
+	 
+	 	 <fieldset name="fot" label="Fotter">
+	 	
+		  <field name="footer1" type="text" default="Xcar" label="Street" description="Street" filter="string" />
+		   
+	   
+     </fieldset>
+	 
+	 
+	    <fieldset name="design" label="Design BY PRO">
+           <field type="spacer" class="text" label="......................Disable.Design BY................................................................" />         
+            <field name="db" type="radio" default="1" class="btn-group"  label="" >
+					<option value="1">Enabled</option>
+					</field>
+     </fieldset>
+		  
+			
+	  
+    </fields>
+  </config>
+  <languages folder="language">
+    <language tag="en-GB">en-GB/en-GB.tpl_dd_xcar_97.ini</language>
+  </languages>
+</extension>
